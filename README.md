@@ -1,4 +1,4 @@
-Thanks for downloading the script!
+le_del_car
 
 This is a very simple scripts that allows any player to use /car and /dv commands.
 
